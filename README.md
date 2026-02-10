@@ -1,4 +1,4 @@
-# PDF / Document Processor (Pdf)
+# PDF / Document Processor (Python)
 
 A professional Python project that extracts text, extracts tables, merges/splits PDFs,
 generates polished reports and handles encryption.
